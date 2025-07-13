@@ -18,11 +18,11 @@ window.eruptSiteConfig = {
     //高德地图 SecurityJsCode
     amapSecurityJsCode: "xxxxx",
     //logo路径
-    logoPath: "erupt.svg",
+    logoPath: "favicon.ico",
     //菜单折叠后的logo路径，1.12.21及以上版本支持
     logoFoldPath: null,
     //logo文字
-    logoText: "erupt",
+    logoText: "IGM",
     //注册页地址，会在登录页面增加一个链接 (仅是一个链接，需要自定义实际样式)
     registerPage: "",
     //触碰用户头像后的菜单，功能列表扩展，1.12.21及以上版本支持

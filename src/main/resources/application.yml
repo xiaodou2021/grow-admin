@@ -3,3 +3,5 @@ spring:
     name: game-admin
   profiles:
     active: dev
+server:
+  port: 9080
